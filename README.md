@@ -168,6 +168,3 @@ The API should support:
 - User authentication (Signup, Login, JWT-based authentication)
 - Role-based access control (Admin, User)
 
-## Conclusion
-This project provides an efficient way to manage movie databases with secure authentication, role-based access, and intuitive API endpoints for seamless interaction. Contributions and enhancements are welcome!
-
