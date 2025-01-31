@@ -36,8 +36,8 @@ The backend is built with:
 
 ### Cloning the Repository
 ```bash
-git clone "https://github.com/VihaShahh/movie.git"
-cd movie
+git clone "https://github.com/VihaShahh/Moviedb_task"
+cd Moviedb_task
 ```
 
 ### Setting up the Frontend
