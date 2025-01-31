@@ -3,7 +3,7 @@
 ## Project Requirements
 
 ### Overview
-This project is a Movie Database Management Website that enables users to manage and interact with a movie database efficiently. The system consists of a frontend and a backend, both of which need to be set up for development and deployment.
+This project is a Movie Database Management Website that gives access to users to manage and interact with a movie database efficiently. The system consists of a frontend and a backend, both of which need to be set up for development.
 
 ### Prerequisites
 To run this project, you need to have the following installed:
@@ -17,7 +17,7 @@ To run this project, you need to have the following installed:
 #### Frontend
 The frontend uses the following dependencies:
 - React.js
-- Tailwind CSS
+- Material UI
 - Axios (for API calls)
 - React Router DOM (for navigation)
 
@@ -34,7 +34,6 @@ The API should support:
 - CRUD operations for movies (Create, Read, Update, Delete)
 - User authentication (Signup, Login, JWT-based authentication)
 - Role-based access control (Admin, User)
-- Search and filtering options
 
 ---
 
