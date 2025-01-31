@@ -1,12 +1,13 @@
 # Movie Database Management Website
 
 ## Introduction
-This project is a full-stack web application designed to manage movie data efficiently. Users can add, update, delete, and fetch movie details. The system includes user authentication and role-based access control.
+This project is a full-stack web application designed to manage movie data efficiently. Users can add, update, delete, and retrieve movie details. The system also includes user authentication and role-based access control to ensure proper permissions.
 
 ## Project Requirements
 
 ### Overview
-The Movie Database Management Website provides a platform for users to interact with a movie database through a user-friendly interface. The system consists of both a frontend and a backend that must be set up for development.
+
+The Movie Database Management Website provides a platform for users to interact with a movie database through an UI. The system includes both frontend and backend components, which need to be set up for development.
 
 ### Prerequisites
 To run this project, you need to have the following installed:
