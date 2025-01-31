@@ -67,7 +67,7 @@ JWT_SECRET=<your-secret-key>
 
 ### Base URL
 ```
-http://localhost:5000/api
+http://localhost:5000
 ```
 
 ### Authentication
