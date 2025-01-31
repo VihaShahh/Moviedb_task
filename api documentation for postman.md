@@ -12,8 +12,8 @@ http://localhost:5000/api
 - Body:
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Viha Shah",
+  "email": "viha@example.com",
   "password": "securepassword"
 }
 ```
@@ -31,7 +31,7 @@ http://localhost:5000/api
 - Body:
 ```json
 {
-  "email": "john@example.com",
+  "email": "viha@example.com",
   "password": "securepassword"
 }
 ```
